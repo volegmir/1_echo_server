@@ -121,3 +121,5 @@ while True:
 # После выхода из основного цикла закрываем главный серверный сокет
 sock.close()
 logging.info("Server is off")  # Записываем в лог
+logging.info("Goodbye")
+
