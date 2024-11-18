@@ -122,4 +122,4 @@ while True:
 sock.close()
 logging.info("Server is off")  # Записываем в лог
 logging.info("Goodbye")
-
+logging.info("ByeBye!")
